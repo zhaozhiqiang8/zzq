@@ -18,5 +18,5 @@ eureka:
     lease-renewal-interval-in-seconds: 2       #设置心跳的时间间隔（默认30秒）
     lease-expiration-duration-in-seconds: 5    #如果现在超过了5秒的间隔（默认9 0秒）
 name:
-	en: zhaozhiqiang
-	cn: zhao
+	en:	zhaozhiqiang
+	cn:	zhao
